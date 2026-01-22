@@ -4,35 +4,28 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 
 ### 🚀 Professional Expertise
 
-* 
-**Fintech Specialist**: Experienced in developing global back-office platforms for the Australian and U.S. markets.
+* **Fintech Specialist**: Experienced in developing global back-office platforms for the Australian and U.S. markets.
 
 
-* 
-**Front-End Expert**: Advanced proficiency in **Angular**, **TypeScript**, and **RxJS**.
+* **Front-End Expert**: Advanced proficiency in **Angular**, **TypeScript**, and **RxJS**.
 
 
-* 
-**Full-Stack Growth**: Actively expanding my expertise in **NestJS** and **Node.js** to build robust, scalable back-end solutions.
+* **Full-Stack Growth**: Actively expanding my expertise in **NestJS** and **Node.js** to build robust, scalable back-end solutions.
 
 
-* 
-**Agile Mindset**: Skilled in collaborating within cross-functional teams using Scrum and Jira to deliver high-quality technical solutions.
+* **Agile Mindset**: Skilled in collaborating within cross-functional teams using Scrum and Jira to deliver high-quality technical solutions.
 
 
 
 ### 🛠 Tech Stack
 
-* 
-**Front-End**: Angular, TypeScript, HTML5, CSS/Sass, RxJS.
+* **Front-End**: Angular, TypeScript, HTML5, CSS/Sass, RxJS.
 
 
-* 
-**Back-End**: Node.js, NestJS, Express, MongoDB, MySQL, PHP.
+* **Back-End**: Node.js, NestJS, Express, MongoDB, MySQL, PHP.
 
 
-* 
-**Tools & Methods**: Git, Agile, Scrum, Jira.
+* **Tools & Methods**: Git, Agile, Scrum, Jira.
 
 
 
@@ -47,8 +40,7 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 
 ### 🎓 Education & Certifications
 
-* 
-**Bachelor of Technology**: Analysis and Systems Development from Estácio.
+* **Bachelor of Technology**: Analysis and Systems Development from Estácio.
 
 
 * **Certifications**:
@@ -69,12 +61,10 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 
 ### 🌍 Languages
 
-* 
-**Portuguese**: Native.
+* **Portuguese**: Native.
 
 
-* 
-**English**: Professional proficiency.
+* **English**: Professional proficiency.
 
 
 
@@ -82,12 +72,10 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 
 ### 📫 Let's Connect!
 
-* 
-**Portfolio**: [y-randhal.github.io/my-portfolio/](https://y-randhal.github.io/my-portfolio/) 
+* **Portfolio**: [y-randhal.github.io/my-portfolio/](https://y-randhal.github.io/my-portfolio/) 
 
 
-* 
-**LinkedIn**: [linkedin.com/in/yurirandhal](https://www.google.com/search?q=https://www.linkedin.com/in/yurirandhal) 
+* **LinkedIn**: [linkedin.com/in/yurirandhal](https://www.google.com/search?q=https://www.linkedin.com/in/yurirandhal) 
 
 
 * 
