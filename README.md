@@ -1,4 +1,4 @@
-# Hi there, I'm Yuri Randhal! 👋
+# Hi there, I'm Yuri ! 👋
 
 I am a **Software Engineer** with 4 years of experience building fast, intuitive, and scalable web applications. My professional journey has been focused on the **Fintech industry**, where I've contributed to global platforms serving international markets.
 
