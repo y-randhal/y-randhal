@@ -2,6 +2,7 @@
 
 I am a **Software Engineer** with 4 years of experience building fast, intuitive, and scalable web applications. My professional journey has been focused on the **Fintech industry**, where I've contributed to global platforms serving international markets.
 
+
 ### 🚀 Professional Expertise
 
 * **Fintech Specialist**: Experienced in developing global back-office platforms for the Australian and U.S. markets.
@@ -70,6 +71,7 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 
 ---
 
+
 ### 📫 Let's Connect!
 
 * **Portfolio**: [y-randhal.github.io/my-portfolio/](https://y-randhal.github.io/my-portfolio/) 
@@ -78,5 +80,4 @@ I am a **Software Engineer** with 4 years of experience building fast, intuitive
 * **LinkedIn**: [linkedin.com/in/yurirandhal](https://www.google.com/search?q=https://www.linkedin.com/in/yurirandhal) 
 
 
-* 
-**Email**: [yuu.rodrigues@gmail.com](mailto:yuu.rodrigues@gmail.com)
+* **Email**: [yuu.rodrigues@gmail.com](mailto:yuu.rodrigues@gmail.com)
