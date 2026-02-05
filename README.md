@@ -1,77 +1,192 @@
-# Hi there, I'm Yuri ! 👋
-
-I am a **Software Engineer** with 4 years of experience building fast, intuitive, and scalable web applications. My professional journey has been focused on the **Fintech industry**, where I've contributed to global platforms serving international markets.
-
-
-### 🚀 Professional Expertise
-
-* **Fintech Specialist**: Experienced in developing global back-office platforms for the Australian and U.S. markets.
-
-
-* **Front-End Expert**: Advanced proficiency in **Angular**, **TypeScript**, and **RxJS**.
-
-
-* **Full-Stack Growth**: Actively expanding my expertise in **NestJS** and **Node.js** to build robust, scalable back-end solutions.
-
-
-* **Agile Mindset**: Skilled in collaborating within cross-functional teams using Scrum and Jira to deliver high-quality technical solutions.
-
-
+# Yuri Randhal Rodrigues Braga
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BFF00&width=435&lines=Fullstack+Developer;AI+Specialist;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+<br>
+Software Engineer with experience building fast, intuitive web applications, primarily within the Fintech industry. Expert in Angular,
+TypeScript, and RxJS, with a proven track record of developing global back-office platforms for international markets. Currently specializing
+in AI-driven development through an MBA in Software Engineering with AI (Full Cycle), focusing on integrating LLMs, RAG, and AI agents into
+the software lifecycle to drive architectural innovation and engineering productivity
+<br><br>
 
 ### 🛠 Tech Stack
 
-* **Front-End**: Angular, TypeScript, HTML5, CSS/Sass, RxJS.
+* **Front-End**:
+  <br><br>
+ <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+  <br><br>
+  
+* **Back-End**:
+  <br><br>
 
+  <img 
+      align="left" 
+      alt="NodeJS" 
+      title="NodeJS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="NestJS" 
+      title="NestJS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="PHP" 
+      title="PHP"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+  />
+  
+  <img 
+      align="left" 
+      alt="MongoDB" 
+      title="MongoDB"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+  />
 
-* **Back-End**: Node.js, NestJS, Express, MongoDB, MySQL, PHP.
+  <br><br>
 
-
-* **Tools & Methods**: Git, Agile, Scrum, Jira.
-
-
-
-### 💼 Career Highlights
-
-* **Stake (Dec 2021 – Oct 2025)**: Software Engineer - Front End. Scaled a global back-office platform and created responsive, reusable UI components used daily by international operations teams.
-
-
-* **Colégio Almirante Monteiro (Dec 2020 – Mar 2021)**: Technology and Support Intern. Redesigned the school website, automated data extraction from satisfaction surveys, and managed digital marketing campaigns.
-
-
-
-### 🎓 Education & Certifications
-
-* **Bachelor of Technology**: Analysis and Systems Development from Estácio.
-
-
-* **Certifications**:
-* TypeScript & Front-End Architecture (DIO).
-
-
-* Full-Stack Web Development (Danki Code).
-
-
-* Database & Backend Foundations (Danki Code).
-
-
-* IT Infrastructure & Security (Fundação Bradesco).
-
-
-
-
-
-### 🌍 Languages
-
-* **Portuguese**: Native.
-
-
-* **English**: Professional proficiency.
-
-
-
+* **Mobile**:
+  <br><br>
+  <img 
+      align="left" 
+      alt="Ionic" 
+      title="Ionic"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Capacitor" 
+      title="Capacitor"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" 
+  />
+  <br><br>
+  
+* **Tools & Methods**: 
+  <br><br>
+  <img 
+      align="left" 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Jira" 
+      title="Jira"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+  />
+  
+  <br><br>
 ---
-
-
+  <br>
+  
+  
 ### 📫 Let's Connect!
 
 * **Portfolio**: [y-randhal.github.io/my-portfolio/](https://y-randhal.github.io/my-portfolio/) 
